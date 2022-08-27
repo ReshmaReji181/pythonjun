@@ -1,0 +1,17 @@
+div{
+    height: 408px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    border: solid white 4px;
+    background-color:lightslategray;
+    padding: 10px;
+}
+img{
+    height: 202px;
+    width: 150px
+     
+    }
+p{
+    color: white;
+}
